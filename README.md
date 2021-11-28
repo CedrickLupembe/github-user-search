@@ -3,7 +3,7 @@
  First Independent project app with REST API, November 28,2021
 
 ## Description  
-A single page application for searching github users and repositories. The site uses the Github API to perform searches on Github, and display the results to the users.
+A single page application for searching github users and repositories. The app uses the Github API to perform searches on Github, and display the results to the users.
 The website is made using html, Sass, Javascript, github API  
 
 ## Technologies Used  
